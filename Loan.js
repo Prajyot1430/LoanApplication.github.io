@@ -141,7 +141,7 @@ function msg() {
     if (ids != num) {
         alert("Please Correct The OTP")
     } else {
-        window.location.href = "Home.html";
+        window.location.href = "http://pixel6.co/";
         alert("Validation Successful!")
     }if(ids != num && counter++ ){
 
